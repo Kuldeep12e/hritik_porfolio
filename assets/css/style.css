@@ -517,14 +517,7 @@ header .navbar ul li a:hover {
 .tool .container{
   width: 70%;
 }
-.tool .container .bar{
-  
- margin-left: 40px;
-  
-  
-  
 
-}
 .skills .container .bar:hover {
   box-shadow: 0 8px 10px rgba(225, 116, 38, 0.8) !important;
   background-color: rgba(0, 0, 0, 0.9) !important;
