@@ -54,11 +54,11 @@ document.onkeydown = function(e) {
 document.addEventListener('visibilitychange',
 function(){
     if(document.visibilityState === "visible"){
-        document.title = "Experience | Portfolio Amit Maity";
-        $("#favicon").attr("href","/assets/images/favicon.ico");
+        document.title = "Experience | Portfolio Hritik Sharma";
+        $("#favicon").attr("href","/assets/images/");
     }
     else {
-        document.title = "Experience | Portfolio Amit Maity";
-        $("#favicon").attr("href","/assets/images/favicon.ico");
+        document.title = "Experience | Hritik ";
+        $("#favicon").attr("href","/assets/images");
     }
 });
