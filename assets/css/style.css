@@ -186,7 +186,10 @@ header .navbar ul li a:hover {
   gap: 1.5rem;
   min-height: 100vh;
   align-items: center;
-  background-color:black;
+  background: url(/pexels-chevanon-photography-325044.jpg) ;
+  background-size: cover; /* Adjust as needed */
+  background-position: center; /* Adjust as needed */
+  background-repeat: no-repeat;
   
   
 }
