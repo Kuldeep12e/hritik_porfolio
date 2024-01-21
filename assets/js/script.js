@@ -63,7 +63,7 @@ document.addEventListener('visibilitychange',
             $("#favicon").attr("href", "assets/images/hriiitik.jpeg");
         }
         else {
-            document.title = "Portfolio | Amit Maity";
+            document.title = "Portfolio | Hritik";
             $("#favicon").attr("href", "assets/images/hriiitik.jpeg");
         }
     });
