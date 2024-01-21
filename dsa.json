@@ -1,0 +1,29 @@
+[
+    {
+        "name": "CLO 3D",
+        "icon": "./assets/images/t1.jpg",
+        "link": ""
+    },
+    {
+        "name": "ADOBE Illustrator",
+        "icon": "./assets/images/t2.png",
+        "link": ""
+    },
+    {
+        "name": "Photoshop",
+        "icon": "./assets/images/t3.png",
+        "link": ""
+    },
+    {
+        "name": "Corel Draw",
+        "icon": "./assets/images/t4.png",
+        "link": ""
+    },
+    {
+        "name": "Ms Office",
+        "icon": "./assets/images/t5.png",
+        "link": ""
+    }
+   
+]
+

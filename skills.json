@@ -1,0 +1,28 @@
+[
+    {
+        "name": "Merchandising Strategy",
+        "icon": "./assets/images/download.png"
+    },
+    {
+        "name": "Visual Merchandising",
+        "icon": "./assets/images/s1.png"
+    },
+    {
+        "name": "CAD Specialist",
+        "icon": "./assets/images/s2.png"
+    },
+    {
+        "name": "Industry Knowledge",
+        "icon": "./assets/images/s3.png"
+    },
+    {
+        "name": "Market Analyst",
+        "icon": "./assets/images/s4.png"
+    },
+    {
+        "name": "Photography",
+        "icon": "./assets/images/s5.png"
+    }
+
+    
+]
